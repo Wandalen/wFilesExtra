@@ -3,5 +3,5 @@ let _ = require( 'wfilesextra' );
 
 /**/
 
-___
+console.log( '___ not implemented ___' );
 
